@@ -1,0 +1,6 @@
+{
+  "name": "Postly",
+  "description": "Create professional social media posts, quotes, flyers, and branding graphics with AI quote generator, smart captions, hashtags, and interactive canvas editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
